@@ -13,6 +13,8 @@ However, sometimes we need to do more complicated clean up of data. For example,
 You will be able to:
 * Explain common types of problems that Regular Expressions can be used to solve
 * Apply Regular Expressions to data stored within a DataFrame
+* Apply Regular Expressions to data stored within a string
+* Apply Regular Expressions to data stored within a file
 * Reformat US phone numbers to a consistent format using a Regular Expression
 * Find all of the occurances of one or more phrases in a larger piece of text using a Regular Expresssion 
 
